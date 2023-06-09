@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
  * print_binary - function prints the binary equivalent of a decimal number
  * @n: number to print in binary
@@ -26,4 +27,3 @@ _putchar('0');
 if (!count)
 _putchar('0');
 }
-
